@@ -6,7 +6,7 @@ Ember.MODEL_FACTORY_INJECTIONS = true;
 
 var App = Ember.Application.extend({
   modulePrefix: 'foo', // TODO: loaded via config
-  Resolver: Resolver
+  Resolver: Resolver  
 });
 
 loadInitializers(App, 'foo');
