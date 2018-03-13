@@ -1,6 +1,6 @@
 test
 
-# Foo....
+# Foo 2....
 
 This README outlines the details of collaborating on this Ember application..
 
