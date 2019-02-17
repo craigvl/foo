@@ -30,5 +30,5 @@ For more information on using ember-cli, visit [http://www.ember-cli.com/](http:
 
 This section will collect all the favorite bands of the involved developers
 
-Freundeskreis
-Queen
+* Freundeskreis
+* Queen
