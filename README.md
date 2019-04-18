@@ -32,3 +32,4 @@ This section will collect all the favorite bands of the involved developers
 
 * Freundeskreis
 * Queen
+* Evanescence
